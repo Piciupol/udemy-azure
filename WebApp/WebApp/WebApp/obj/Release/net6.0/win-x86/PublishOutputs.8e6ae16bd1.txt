@@ -1,0 +1,7 @@
+C:\dev\repos\azure-udemy\WebApp\WebApp\WebApp\obj\Release\net6.0\win-x86\PubTmp\Out\WebApp.exe
+C:\dev\repos\azure-udemy\WebApp\WebApp\WebApp\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.Development.json
+C:\dev\repos\azure-udemy\WebApp\WebApp\WebApp\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.json
+C:\dev\repos\azure-udemy\WebApp\WebApp\WebApp\obj\Release\net6.0\win-x86\PubTmp\Out\WebApp.dll
+C:\dev\repos\azure-udemy\WebApp\WebApp\WebApp\obj\Release\net6.0\win-x86\PubTmp\Out\WebApp.deps.json
+C:\dev\repos\azure-udemy\WebApp\WebApp\WebApp\obj\Release\net6.0\win-x86\PubTmp\Out\WebApp.runtimeconfig.json
+C:\dev\repos\azure-udemy\WebApp\WebApp\WebApp\obj\Release\net6.0\win-x86\PubTmp\Out\WebApp.pdb
